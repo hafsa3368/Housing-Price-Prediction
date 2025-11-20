@@ -59,6 +59,16 @@ Evaluated using:
 
 ---
 
+## 📝 **Conclusion**
+
+This project demonstrates the complete ML lifecycle:
+
+* Cleaning real-world data
+* Building advanced preprocessing pipelines
+* Training and tuning regression models
+* Handling common machine-learning errors
+* Ensuring reproducible, scalable code
+
 ## ⚠️ **Challenges Faced During the Project**
 
 ### **1. Non-numeric column errors**
@@ -130,14 +140,7 @@ NameError: name 'GridSearchCV' is not defined
 from sklearn.model_selection import GridSearchCV
 ---
 
-## 📝 **Conclusion**
 
-This project demonstrates the complete ML lifecycle:
 
-* Cleaning real-world data
-* Building advanced preprocessing pipelines
-* Training and tuning regression models
-* Handling common machine-learning errors
-* Ensuring reproducible, scalable code
 
-Just tell me **“Make GitHub README fully”** and I’ll generate the complete file.
+
